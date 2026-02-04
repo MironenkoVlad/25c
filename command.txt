@@ -1,0 +1,6 @@
+
+git branch file
+git checkout file 
+
+git checkout -b file
+
