@@ -1,0 +1,15 @@
+# Initialize a Git repository (if not already done)
+git init
+
+# Create and switch to a new branch called 'main'
+git checkout -b main
+
+# Or, if using Git 2.28+, create main with:
+git branch main
+
+# Make your first commit
+git add .
+git commit -m "Initial commit"
+
+# Set main as the default branch
+git branch -M main
