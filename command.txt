@@ -4,3 +4,5 @@ git checkout file
 
 git checkout -b file
 
+git checkout HEAD command.txt
+git reset HEAD filename
