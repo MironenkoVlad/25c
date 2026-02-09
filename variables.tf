@@ -12,7 +12,6 @@ variable "vpc_cidr" {
 
 variable "az_subnet" {
   type    = string
-  default = "us-east-1a"
 }
 
 
