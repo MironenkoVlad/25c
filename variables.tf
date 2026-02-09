@@ -21,3 +21,11 @@ variable "cidr_block" {
 }
 
 
+variable "az_subnet1" {
+  type    = string
+}
+
+variable "cidr_block1" {
+  type        = string
+  description = "CIDR block for subnet"
+}
